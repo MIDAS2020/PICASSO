@@ -16,7 +16,7 @@ This is our implementation of the paper "PICASSO: Exploratory Search of Connecte
 
 2. Double click the files mvn-install-file.bat and mvn-install-file2.bat in PICASSO\lib4zrgviewer
 
-3. Build this project(not build clean) using Netbeans 8.1
+3. Build this project(instead of build clean) using Netbeans 8.1
 
 #Run
 
