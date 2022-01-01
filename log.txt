@@ -1,0 +1,6 @@
+1.In previous version, zgrviewer is a sub-project, 
+In this version, zgrviewer is copied to another sub-project.
+
+2.lib4zrgviewer contains the lib for zgrviewer.
+
+3. KCORES computes the k-cores for each graph.

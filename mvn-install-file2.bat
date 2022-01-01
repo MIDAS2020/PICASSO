@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=PRAGUE -DartifactId=zgrviewer -Dversion=0.9.0 -Dfile=zgrviewer-0.9.0.jar -Dpackaging=jar
