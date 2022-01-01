@@ -1,0 +1,1 @@
+java -jar EVSS-UI-1.0.jar

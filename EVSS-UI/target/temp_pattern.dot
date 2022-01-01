@@ -1,0 +1,22 @@
+graph "result" {
+graph [fontname="Helvetica-Oblique", fontsize=20, dpi=100,
+ratio="compress",
+label="Pattern 11 (8,8)", size="3,6.200000" ];
+node [shape=box, sides=4, color=cadetblue1, style=filled, fontname="Helvetica-Outline" ];
+0[ label="C" ];
+1[ label="C" ];
+2[ label="C" ];
+3[ label="C" ];
+4[ label="C" ];
+5[ label="C" ];
+6[ label="O" ];
+7[ label="S" ];
+0 -- 1;
+0 -- 2;
+0 -- 7;
+1 -- 4;
+2 -- 5;
+3 -- 4;
+3 -- 5;
+6 -- 7;
+}

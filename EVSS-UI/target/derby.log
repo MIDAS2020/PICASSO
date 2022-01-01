@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu May 06 16:27:29 CST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0179-40c9-fb9d-00000f269c98 
+on database directory C:\Users\Kai\Desktop\PICASSO\EVSS-UI\target\data\AIDS\40k\0.1\PIndex with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/Kai/Desktop/PICASSO/EVSS-UI/target/lib/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-b10
+user.dir=C:\Users\Kai\Desktop\PICASSO\EVSS-UI\target
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

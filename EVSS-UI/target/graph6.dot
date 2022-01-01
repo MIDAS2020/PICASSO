@@ -1,0 +1,43 @@
+graph "result" {
+graph [ fontname="Helvetica-Oblique", fontsize=20,
+label="\n\nGraph 194 (18,19)", size="4,4" ];
+node [ label="\N", shape=box, sides=4, color=cadetblue1,
+style=filled, fontname="Helvetica-Outline" ];
+O_0;
+C_1 [color=orange];
+N_2 [color=orange];
+C_3;
+N_4 [color=orange];
+C_5;
+C_6;
+C_7 [color=orange];
+C_8;
+C_9 [color=orange];
+O_10;
+C_11;
+C_12;
+O_13;
+C_14;
+O_15;
+C_16;
+C_17;
+O_0 -- C_1;
+C_1 -- N_2 [label="4", fontcolor=navy, color=red, style=bold, penwidth=5];
+C_1 -- C_3;
+N_2 -- N_4 [label="3", fontcolor=navy, color=red, style=bold, penwidth=5];
+N_2 -- C_5;
+C_3 -- C_6;
+C_3 -- C_7;
+N_4 -- C_8;
+N_4 -- C_9 [label="2", fontcolor=navy, color=red, style=bold, penwidth=5];
+C_5 -- O_10;
+C_5 -- C_11;
+C_7 -- C_9 [label="1", fontcolor=navy, color=red, style=bold, penwidth=5];
+C_7 -- C_12;
+C_8 -- O_13;
+C_8 -- C_14;
+C_9 -- O_15;
+C_11 -- C_14;
+C_11 -- C_16;
+C_14 -- C_17;
+}
