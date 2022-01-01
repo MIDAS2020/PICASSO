@@ -1,0 +1,10 @@
+graph "result" {
+graph [ fontname="Helvetica-Oblique", fontsize=20,
+label="\n\nGraph 0 (3,1)", size="4,4" ];
+node [ label="\N", shape=box, sides=4, color=cadetblue1,
+style=filled, fontname="Helvetica-Outline" ];
+C_0 [color=orange];
+O_1 [color=orange];
+C_2;
+C_0 -- O_1 [label="1", fontcolor=navy, color=red, style=bold, penwidth=5];
+}

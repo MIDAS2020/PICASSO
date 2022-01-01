@@ -1,0 +1,9 @@
+graph "result" {
+graph [fontname="Helvetica-Oblique", fontsize=20, dpi=100,
+ratio="compress",
+label="Pattern 2 (2,1)", size="3,3.800000" ];
+node [shape=box, sides=4, color=cadetblue1, style=filled, fontname="Helvetica-Outline" ];
+0[ label="O" ];
+1[ label="N" ];
+0 -- 1;
+}
