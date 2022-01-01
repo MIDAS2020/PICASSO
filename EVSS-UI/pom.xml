@@ -1,0 +1,136 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>ntu.disco</groupId>
+    <artifactId>EVSS-Parent</artifactId>
+    <version>1.0</version>
+  </parent>
+
+  <artifactId>EVSS-UI</artifactId>
+
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>2.4</version>
+        <configuration>
+          <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+              <classpathPrefix>lib/</classpathPrefix>
+              <mainClass>gblend.GBlendApp</mainClass>
+            </manifest>
+          </archive>
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-dependency-plugin</artifactId>
+        <executions>
+          <execution>
+            <id>copy</id>
+            <phase>package</phase>
+            <goals>
+              <goal>copy-dependencies</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>
+                ${project.build.directory}/lib
+              </outputDirectory>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+  <!-- this section is important only to access the binaries of NetBeans 
+    that you use as dependencies -->
+  <repositories>
+    <repository>
+      <id>netbeans</id>
+      <name>repository hosting netbeans.org api artifacts</name>
+       <!--<url>http://bits.netbeans.org/maven2/</url>-->
+       <url>http://netbeans.apidesign.org/maven2/</url>
+      <releases>
+        <enabled>true</enabled>
+      </releases>
+      <snapshots>
+        <enabled>true</enabled>
+      </snapshots>
+    </repository>
+     <repository>
+      <id>zvtm repository</id>
+      <url>http://zvtm.sourceforge.net/maven</url>
+    </repository>
+  </repositories> 
+  <dependencies>
+    <dependency>
+      <groupId>ntu.disco</groupId>
+      <artifactId>EVSS-Core</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <!--<dependency>
+      <groupId>ntu.disco</groupId>
+      <artifactId>EVSS-ZgrViewer</artifactId>
+      <version>1.0</version>
+    </dependency>-->
+    
+    <dependency>
+      <groupId>org.jdesktop</groupId>
+      <artifactId>appframework</artifactId>
+      <version>1.0.3</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jfree</groupId>
+      <artifactId>jfreechart</artifactId>
+      <version>1.0.17</version>
+    </dependency>
+    <dependency>
+      <groupId>org.netbeans.api</groupId>
+      <artifactId>org-netbeans-api-visual</artifactId>
+      <version>RELEASE80</version>
+    </dependency>
+    <dependency>
+      <groupId>org.netbeans.api</groupId>
+      <artifactId>org-netbeans-swing-tabcontrol</artifactId>
+      <version>RELEASE80</version>
+    </dependency>
+    
+    
+    
+    
+    <dependency>
+      <groupId>antlr</groupId>
+      <artifactId>antlr</artifactId>
+      <version>2.7.7</version>
+    </dependency>
+    <dependency>
+      <groupId>xerces</groupId>
+      <artifactId>xercesImpl</artifactId>
+      <version>2.11.0</version>
+    </dependency>
+    <dependency>
+      <groupId>PRAGUE</groupId>
+      <artifactId>zgrviewer</artifactId>
+      <version>0.9.0</version>
+    </dependency>
+    <dependency>
+      <groupId>fr.inria.zvtm</groupId>
+      <artifactId>zvtm-core</artifactId>
+      <version>0.11.2</version>
+    </dependency>
+    <dependency>
+      <groupId>fr.inria.zvtm</groupId>
+      <artifactId>zvtm-svg</artifactId>
+      <version>0.2.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.netbeans.api</groupId>
+      <artifactId>org-openide-util</artifactId>
+      <version>RELEASE80</version>
+      <type>jar</type>
+    </dependency>
+  </dependencies>
+</project>

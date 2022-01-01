@@ -1,0 +1,979 @@
+2015-06-30 22:37:50.706 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-06-30 22:37:52.086 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 19.84 ms
+2015-06-30 22:37:52.111 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | begin
+2015-06-30 22:37:52.111 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\rach0012\Documents\Prague2.0\Code\PRAGUE-release-1.0\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-06-30 22:37:54.700 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 2.835 ms, size: 0
+2015-06-30 22:38:48.630 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 1
+2015-06-30 22:38:48.635 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-06-30 22:38:48.640 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 49 | SimpleSGraph{nodes=0, edgeSets=0}
+2015-06-30 22:38:48.645 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = CommonInfrequent
+2015-06-30 22:38:48.645 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 0
+2015-06-30 22:38:48.645 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 7.882 ms
+2015-06-30 22:39:03.608 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 2
+2015-06-30 22:39:03.608 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-06-30 22:39:03.608 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 49 | SimpleSGraph{nodes=0, edgeSets=0}
+2015-06-30 22:39:03.608 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = CommonInfrequent
+2015-06-30 22:39:03.608 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 0
+2015-06-30 22:39:03.613 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 755.4 ?s
+2015-06-30 22:39:15.389 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 71 | Exact result size: 0
+2015-06-30 22:39:15.389 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 93 | query sigma: 1
+2015-06-30 22:39:15.394 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 99 | extract sigma 1 time: 5.523 ms, size: 2
+2015-06-30 22:39:15.404 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 78 | Similar result size: 0
+2015-06-30 22:39:15.404 [AWT-EventQueue-0] INFO  GBlendAction$AbstractRun run 135 | System Response time: 71.82 ms
+2015-07-01 21:22:24.217 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\rach0012\Documents\Prague2.0\Code\PRAGUE-release-1.0\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-07-01 21:22:24.294 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 72.08 ms, size: 106
+2015-07-01 21:22:24.295 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 72 | 106 patterns loaded
+2015-07-01 21:22:24.301 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 107 | 106 pattern images loaded
+2015-07-01 21:22:25.466 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-07-01 21:22:26.787 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 737.8 ms
+2015-07-01 21:22:26.813 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-07-01 21:22:29.516 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 1.313 s, size: 1946
+2015-07-01 21:22:40.065 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 1
+2015-07-01 21:22:40.073 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-07-01 21:22:40.080 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 50 | SimpleSGraph{nodes=1, edgeSets=1}
+2015-07-01 21:22:40.093 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-07-01 21:22:40.094 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 39804
+2015-07-01 21:22:40.094 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 19.75 ms
+2015-07-01 21:22:41.467 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 2
+2015-07-01 21:22:41.467 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-07-01 21:22:41.471 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 50 | SimpleSGraph{nodes=3, edgeSets=3}
+2015-07-01 21:22:41.473 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-07-01 21:22:41.473 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 32541
+2015-07-01 21:22:41.473 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 5.681 ms
+2015-07-01 21:22:50.468 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 3
+2015-07-01 21:22:50.469 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-07-01 21:22:50.470 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 50 | SimpleSGraph{nodes=3, edgeSets=3}
+2015-07-01 21:22:50.470 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = CommonInfrequent
+2015-07-01 21:22:50.470 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 0
+2015-07-01 21:22:50.470 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 1.387 ms
+2015-07-01 21:22:52.748 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 71 | Exact result size: 0
+2015-07-01 21:22:52.753 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 94 | query sigma: 2
+2015-07-01 21:22:52.776 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 102 | extract sigma 2 time: 10.71 ms, size: 3
+2015-07-01 21:22:52.778 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\rach0012\Documents\Prague2.0\Code\PRAGUE-release-1.0\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-07-01 21:22:54.421 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | AIDS40k time: 1.642 s, size: 40000
+2015-07-01 21:22:55.052 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$14 155 | {3} (free) get new: 32541
+2015-07-01 21:22:55.418 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$14 155 | {3} (free) get new: 32541
+2015-07-01 21:22:55.782 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$14 155 | {3} (free) get new: 32541
+2015-07-01 21:40:04.106 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\rach0012\Documents\Prague2.0\Code\PRAGUE-release-1.0\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-07-01 21:40:04.182 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 69.60 ms, size: 106
+2015-07-01 21:40:04.182 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 72 | 106 patterns loaded
+2015-07-01 21:40:04.188 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 107 | 106 pattern images loaded
+2015-07-01 21:40:05.076 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-07-01 21:40:06.339 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 696.7 ms
+2015-07-01 21:40:06.364 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-07-01 21:40:08.722 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 1.275 s, size: 1946
+2015-07-01 21:40:16.045 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 1
+2015-07-01 21:40:16.051 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-07-01 21:40:16.053 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 51 | SimpleSGraph{nodes=1, edgeSets=1}
+2015-07-01 21:40:16.063 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-07-01 21:40:16.064 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 33444
+2015-07-01 21:40:16.064 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 12.86 ms
+2015-07-01 21:40:17.229 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 2
+2015-07-01 21:40:17.230 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-07-01 21:40:17.239 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 51 | SimpleSGraph{nodes=3, edgeSets=3}
+2015-07-01 21:40:17.243 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-07-01 21:40:17.244 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 32541
+2015-07-01 21:40:17.245 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 13.56 ms
+2015-07-01 21:40:21.322 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 3
+2015-07-01 21:40:21.323 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-07-01 21:40:21.324 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 51 | SimpleSGraph{nodes=5, edgeSets=6}
+2015-07-01 21:40:21.329 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-07-01 21:40:21.329 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 30757
+2015-07-01 21:40:21.330 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 5.789 ms
+2015-07-01 21:40:26.097 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 4
+2015-07-01 21:40:26.098 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-07-01 21:40:26.099 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 51 | SimpleSGraph{nodes=9, edgeSets=10}
+2015-07-01 21:40:26.101 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-07-01 21:40:26.102 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 13828
+2015-07-01 21:40:26.103 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 3.822 ms
+2015-07-01 21:40:28.273 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 85 | Edge: 5
+2015-07-01 21:40:28.274 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-07-01 21:40:28.274 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 51 | SimpleSGraph{nodes=9, edgeSets=10}
+2015-07-01 21:40:28.275 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = CommonInfrequent
+2015-07-01 21:40:28.275 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 0
+2015-07-01 21:40:28.275 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 1.318 ms
+2015-07-01 21:40:30.507 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 71 | Exact result size: 0
+2015-07-01 21:40:30.511 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 95 | query sigma: 2
+2015-07-01 21:40:30.518 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 102 | extract sigma 1 time: 6.196 ms, size: 3
+2015-07-01 21:40:30.523 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\rach0012\Documents\Prague2.0\Code\PRAGUE-release-1.0\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-07-01 21:40:32.387 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | AIDS40k time: 1.864 s, size: 40000
+2015-07-01 21:40:32.957 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$14 159 | {5} (free) get new: 13828
+2015-07-01 21:40:32.961 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 102 | extract sigma 2 time: 792.6 ?s, size: 4
+2015-07-01 21:40:33.336 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$14 159 | {1, 5} (free) get new: 30783
+2015-07-01 21:40:33.412 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$14 159 | {4, 5} (free) get new: 7380
+2015-07-01 21:40:33.419 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 78 | Similar result size: 51991
+2015-07-01 21:40:33.420 [AWT-EventQueue-0] INFO  GBlendAction$AbstractRun run 135 | System Response time: 2.924 s
+2015-07-02 15:38:56.056 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\rach0012\Documents\Prague2.0\Code\PRAGUE-release-1.0\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-07-02 15:38:56.181 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 116.2 ms, size: 106
+2015-07-02 15:38:56.181 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 72 | 106 patterns loaded
+2015-07-02 15:38:56.194 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 107 | 106 pattern images loaded
+2015-08-26 21:42:30.832 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-26 21:42:43.242 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 16.56 ms
+2015-08-26 21:42:43.275 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-26 21:42:43.276 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-08-26 21:43:00.715 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 1.675 ms, size: 0
+2015-08-26 21:44:05.170 [pool-1-thread-2] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-26 21:44:05.174 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-26 21:44:05.175 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-08-26 21:44:07.134 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.1AIDS40k time: 1.957 s, size: 2852
+2015-08-26 21:44:07.142 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 6.848 ms
+2015-08-26 21:44:07.225 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 82.83 ms
+2015-08-26 21:44:07.226 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-26 21:44:07.228 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 16
+2015-08-26 21:44:47.359 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-08-26 21:44:49.160 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | AIDS40k time: 1.800 s, size: 40000
+2015-08-26 21:44:49.561 [pool-1-thread-2] INFO  PragueIndex getEdges 141 | getEdges time: 400.4 ms
+2015-08-26 21:44:49.934 [pool-1-thread-2] INFO  PIndexRepository reload 68 | pre load seed time: 256.4 ms
+2015-08-26 21:44:51.249 [pool-1-thread-2] INFO  PIndexRepository reload 68 | pre load seed time: 218.9 ms
+2015-08-26 21:44:57.333 [pool-1-thread-2] INFO  PIndexRepository reload 68 | pre load seed time: 167.1 ms
+2015-08-26 21:45:11.120 [pool-1-thread-2] INFO  PIndexRepository reload 68 | pre load seed time: 149.2 ms
+2015-08-26 21:45:30.130 [pool-1-thread-2] INFO  PIndexRepository reload 68 | pre load seed time: 153.9 ms
+2015-08-26 21:46:00.369 [pool-1-thread-2] INFO  PIndexRepository reload 68 | pre load seed time: 153.8 ms
+2015-08-26 21:47:32.751 [pool-1-thread-2] INFO  PIndexRepository reload 68 | pre load seed time: 179.2 ms
+2015-08-26 21:48:54.293 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-26 21:48:54.308 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.54 ms, size: 0
+2015-08-26 21:48:54.308 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-26 21:48:54.324 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-26 21:48:54.324 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-26 21:48:54.324 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-26 21:48:54.324 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-26 21:48:55.525 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-26 21:48:58.099 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 381.5 ms
+2015-08-26 21:48:58.130 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-26 21:48:58.130 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-08-26 21:49:00.267 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1AIDS40k time: 2.137 s, size: 2852
+2015-08-26 21:49:00.267 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 74 | read cam file time: 5.169 ms
+2015-08-26 21:49:00.345 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 69.74 ms
+2015-08-26 21:49:00.345 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-26 21:49:00.345 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 16
+2015-08-26 21:49:00.767 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-08-26 21:49:02.139 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | AIDS40k time: 1.374 s, size: 40000
+2015-08-26 21:49:02.639 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 490.7 ms
+2015-08-26 21:49:02.873 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 219.8 ms
+2015-08-26 21:49:03.107 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 226.3 ms
+2015-08-26 21:49:03.294 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 185.5 ms
+2015-08-26 21:49:03.497 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 183.0 ms
+2015-08-26 21:49:03.684 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 180.0 ms
+2015-08-26 21:49:03.918 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 219.6 ms
+2015-08-26 21:49:04.121 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 175.9 ms
+2015-08-26 21:51:16.110 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-26 21:51:16.125 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.40 ms, size: 0
+2015-08-26 21:51:16.125 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-26 21:51:16.125 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-26 21:51:16.141 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-26 21:51:16.141 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-26 21:51:16.141 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-26 21:51:17.170 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-26 21:51:18.918 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 417.6 ms
+2015-08-26 21:51:18.949 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-26 21:51:18.949 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-08-26 21:51:20.961 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1AIDS40k time: 2.008 s, size: 2852
+2015-08-26 21:51:20.961 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 74 | read cam file time: 5.210 ms
+2015-08-26 21:51:21.024 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 62.16 ms
+2015-08-26 21:51:21.024 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-26 21:51:21.024 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 16
+2015-08-26 21:51:21.414 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-08-26 21:51:22.849 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | AIDS40k time: 1.436 s, size: 40000
+2015-08-26 21:51:23.332 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 474.6 ms
+2015-08-26 21:51:23.566 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 218.9 ms
+2015-08-26 21:51:23.769 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 182.5 ms
+2015-08-26 21:51:23.988 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 212.6 ms
+2015-08-26 21:51:24.175 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 180.1 ms
+2015-08-26 21:51:24.393 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 202.0 ms
+2015-08-26 21:51:24.658 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 265.6 ms
+2015-08-26 21:51:24.877 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 189.6 ms
+2015-08-26 21:53:53.991 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-26 21:53:54.006 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.49 ms, size: 0
+2015-08-26 21:53:54.006 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-26 21:53:54.022 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-26 21:53:54.022 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-26 21:53:54.022 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-26 21:53:54.022 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-26 21:53:55.176 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-26 21:53:56.752 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 423.3 ms
+2015-08-26 21:53:56.783 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-26 21:53:56.783 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-08-26 21:53:59.030 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1AIDS40k time: 2.253 s, size: 2852
+2015-08-26 21:53:59.045 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 74 | read cam file time: 6.509 ms
+2015-08-26 21:53:59.092 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 57.85 ms
+2015-08-26 21:53:59.092 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-26 21:53:59.108 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 16
+2015-08-26 21:53:59.498 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-08-26 21:54:00.870 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | AIDS40k time: 1.360 s, size: 40000
+2015-08-26 21:54:01.307 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 446.7 ms
+2015-08-26 21:54:01.541 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 211.3 ms
+2015-08-26 21:54:01.760 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 196.9 ms
+2015-08-26 21:54:01.962 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 200.5 ms
+2015-08-26 21:54:02.150 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 176.4 ms
+2015-08-26 21:54:02.321 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 175.8 ms
+2015-08-26 21:54:02.555 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 214.3 ms
+2015-08-26 21:54:02.836 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 256.6 ms
+2015-08-26 21:54:50.088 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-26 21:54:50.104 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-26 21:54:50.120 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-26 21:54:50.120 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-26 21:54:50.120 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-26 21:54:50.135 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | end png gengerate
+2015-08-26 21:54:50.151 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 141 | end svg gengerate:
+2015-08-26 21:55:46.319 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\10k\patterns\patterns
+2015-08-26 21:55:46.381 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 66.79 ms, size: 111
+2015-08-26 21:55:46.381 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 111 patterns loaded
+2015-08-26 21:55:46.397 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\10k\patterns\thumbnails\S5
+2015-08-26 21:55:46.397 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\10k\patterns\thumbnails\S6
+2015-08-26 21:55:46.397 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\10k\patterns\thumbnails\S7
+2015-08-26 21:55:46.397 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 111 pattern images loaded
+2015-08-26 21:55:47.536 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-26 21:55:48.862 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 357.1 ms
+2015-08-26 21:55:48.893 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-26 21:55:52.309 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 400.4 ms, size: 1509
+2015-08-26 21:55:53.200 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 1
+2015-08-26 21:55:53.200 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-26 21:55:53.215 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=1, edgeSets=1}
+2015-08-26 21:55:53.231 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-26 21:55:53.231 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 9887
+2015-08-26 21:55:53.231 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 22.14 ms
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 2
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=3, edgeSets=3}
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 7574
+2015-08-26 21:55:53.340 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 5.099 ms
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 3
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=6, edgeSets=6}
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 1643
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 1.010 ms
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 4
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=8, edgeSets=10}
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 1417
+2015-08-26 21:55:53.356 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 967.6 ?s
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 5
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=9, edgeSets=15}
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 1071
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 863.1 ?s
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-26 21:55:53.371 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-26 21:55:55.555 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\10k\AIDS10k
+2015-08-26 21:55:55.914 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | AIDS10k time: 351.3 ms, size: 10000
+2015-08-26 21:55:56.195 [AWT-EventQueue-0] INFO  GBlendAction$SequenceIterateRun action 163 | Exact result size: 1071
+2015-08-26 21:55:56.195 [AWT-EventQueue-0] INFO  GBlendAction$AbstractRun run 137 | System Response time: 636.2 ms
+2015-08-26 21:55:59.362 [AWT-EventQueue-0] INFO  GBlendAction$NormalRun action 149 | NormalRun!!!!!!
+2015-08-26 21:55:59.377 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 71 | Exact result size: 1071
+2015-08-26 21:55:59.377 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 73 | Similar Panel State:false
+2015-08-26 21:55:59.377 [AWT-EventQueue-0] INFO  GBlendAction$AbstractRun run 137 | System Response time: 7.048 ms
+2015-08-26 21:56:20.718 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-26 21:56:28.300 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 22.08 ms
+2015-08-26 21:56:28.331 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-26 21:56:28.331 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\960k\0.1\0.1MD960k
+2015-08-26 21:56:44.635 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1MD960k time: 16.29 s, size: 665
+2015-08-26 21:56:44.635 [pool-1-thread-1] INFO  FrequentFileProcessor processCam 95 | processing freq cam
+2015-08-26 21:56:45.727 [pool-1-thread-1] INFO  FrequentFileProcessor processCam 112 | processing freq cam time: 1.098 s
+2015-08-26 21:56:45.727 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-26 21:56:45.727 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 12
+2015-08-26 22:00:29.900 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\960k\MD960k
+2015-08-27 15:34:30.857 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-27 15:34:47.471 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 14.57 s
+2015-08-27 15:34:47.518 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-27 15:34:47.518 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\960k\0.1\0.1MD960k
+2015-08-27 15:35:09.421 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1MD960k time: 21.90 s, size: 665
+2015-08-27 15:35:09.436 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 74 | read cam file time: 18.90 ms
+2015-08-27 15:35:09.483 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 36.69 ms
+2015-08-27 15:35:09.483 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-27 15:35:09.483 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 12
+2015-08-27 15:35:09.655 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\960k\MD960k
+2015-08-27 15:45:32.756 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-27 15:45:35.206 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.380 s
+2015-08-27 15:45:35.237 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-27 15:45:35.237 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\960k\0.1\0.1MD960k
+2015-08-27 15:45:53.447 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1MD960k time: 18.21 s, size: 665
+2015-08-27 15:45:53.462 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 74 | read cam file time: 15.57 ms
+2015-08-27 15:45:53.509 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 35.26 ms
+2015-08-27 15:45:53.509 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-27 15:45:53.509 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 12
+2015-08-27 15:45:53.681 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\960k\MD960k
+2015-08-27 15:47:59.785 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | MD960k time: 2.102 min, size: 960000
+2015-08-27 15:49:27.829 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 1.468 min
+2015-08-27 15:49:42.306 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.194 s
+2015-08-27 16:00:10.150 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.154 s
+2015-08-27 16:53:52.156 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.124 s
+2015-08-27 19:12:11.928 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.133 s
+2015-08-27 22:22:18.710 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.210 s
+2015-08-28 00:37:39.886 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.169 s
+2015-08-28 06:41:15.680 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.301 s
+2015-08-28 15:05:41.699 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.287 s
+2015-08-29 02:13:39.999 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.528 s
+2015-08-29 10:01:41.954 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.481 s
+2015-08-29 16:34:30.747 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.414 s
+2015-08-29 20:47:45.747 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.446 s
+2015-08-29 23:16:04.601 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-30 16:59:28.708 [pool-1-thread-2] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-30 17:00:13.961 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-30 17:00:18.547 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 3.010 s
+2015-08-30 17:00:18.610 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-30 17:00:58.162 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 36.57 s, size: 1132
+2015-08-30 17:01:21.656 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 1
+2015-08-30 17:01:21.671 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = false
+2015-08-30 17:01:21.671 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=1, edgeSets=1}
+2015-08-30 17:01:21.687 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-30 17:01:21.687 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 3
+2015-08-30 17:01:21.687 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 25.67 ms
+2015-08-30 17:01:21.687 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 64 | executeSimilar time: 4.993 ?s
+2015-08-30 17:01:21.812 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-30 17:01:21.812 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-30 17:01:21.812 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-30 17:01:23.964 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 2
+2015-08-30 17:01:23.964 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = false
+2015-08-30 17:01:23.980 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=2, edgeSets=2}
+2015-08-30 17:01:23.980 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = CommonInfrequent
+2015-08-30 17:01:23.980 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 0
+2015-08-30 17:01:23.980 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 2.526 ms
+2015-08-30 17:01:23.980 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 64 | executeSimilar time: 1.387 ?s
+2015-08-30 17:01:23.980 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=CommonInfrequent
+2015-08-30 17:01:23.980 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-30 17:01:23.980 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-30 17:01:29.424 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\960k\MD960k
+2015-08-30 17:18:04.107 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-30 17:18:13.608 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 27.92 ms
+2015-08-30 17:18:13.639 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-30 17:18:13.639 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\320k\0.1\0.1MD320k
+2015-08-30 17:18:18.615 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1MD320k time: 4.983 s, size: 586
+2015-08-30 17:18:18.615 [pool-1-thread-1] INFO  FrequentFileProcessor processCam 95 | processing freq cam
+2015-08-30 17:18:19.863 [pool-1-thread-1] INFO  FrequentFileProcessor processCam 112 | processing freq cam time: 1.248 s
+2015-08-30 17:18:19.863 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-30 17:18:19.879 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 12
+2015-08-30 17:19:48.690 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\320k\MD320k
+2015-08-30 17:20:01.810 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | MD320k time: 13.13 s, size: 320000
+2015-08-30 17:20:07.489 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 5.675 s
+2015-08-30 17:20:08.285 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 393.2 ms
+2015-08-30 17:20:14.010 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 320.9 ms
+2015-08-30 17:20:44.133 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 311.5 ms
+2015-08-30 17:21:55.320 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 335.2 ms
+2015-08-30 17:23:25.332 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 275.7 ms
+2015-08-30 17:24:47.216 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 411.3 ms
+2015-08-30 17:28:12.169 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 314.6 ms
+2015-08-30 17:32:30.319 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 320.8 ms
+2015-08-30 17:38:03.161 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 341.7 ms
+2015-08-30 17:41:40.719 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 445.6 ms
+2015-08-30 17:44:18.232 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 376.3 ms
+2015-08-30 17:46:00.678 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 400.0 ms
+2015-08-30 17:46:03.845 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-30 19:26:42.531 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-30 19:26:44.527 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 596.3 ms
+2015-08-30 19:26:44.559 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-30 19:26:53.872 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 7.873 s, size: 1067
+2015-08-30 19:27:03.887 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 1
+2015-08-30 19:27:03.903 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-30 19:27:03.918 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=1, edgeSets=1}
+2015-08-30 19:27:03.965 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-30 19:27:03.965 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 247712
+2015-08-30 19:27:03.965 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 55.02 ms
+2015-08-30 19:27:04.059 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-30 19:27:04.059 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-30 19:27:04.059 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-30 19:27:08.973 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 2
+2015-08-30 19:27:08.973 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-30 19:27:08.973 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=2, edgeSets=3}
+2015-08-30 19:27:08.988 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-30 19:27:08.988 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 133558
+2015-08-30 19:27:08.988 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 21.12 ms
+2015-08-30 19:27:09.004 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-30 19:27:09.004 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-30 19:27:09.004 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-30 19:27:11.890 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 3
+2015-08-30 19:27:11.890 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-30 19:27:11.890 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=5, edgeSets=7}
+2015-08-30 19:27:11.890 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-30 19:27:11.890 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 694
+2015-08-30 19:27:11.890 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 2.338 ms
+2015-08-30 19:27:11.905 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-30 19:27:11.905 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-30 19:27:11.905 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-30 19:27:15.447 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 4
+2015-08-30 19:27:15.447 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-30 19:27:15.447 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=9, edgeSets=13}
+2015-08-30 19:27:15.447 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = CommonInfrequent
+2015-08-30 19:27:15.447 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 126
+2015-08-30 19:27:15.447 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 4.612 ms
+2015-08-30 19:27:15.462 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=CommonInfrequent
+2015-08-30 19:27:15.462 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-30 19:27:17.724 [AWT-EventQueue-0] INFO  QueryController selectDialogue 60 | seelcted option:1
+2015-08-30 19:27:17.724 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-30 19:27:20.392 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\320k\MD320k
+2015-08-30 19:27:33.154 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | MD320k time: 12.76 s, size: 320000
+2015-08-30 19:27:34.168 [AWT-EventQueue-0] INFO  GBlendAction$SequenceIterateRun action 163 | Exact result size: 6
+2015-08-30 19:27:34.168 [AWT-EventQueue-0] INFO  GBlendAction$AbstractRun run 137 | System Response time: 13.77 s
+2015-08-30 19:28:09.628 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 5
+2015-08-30 19:28:09.628 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = false
+2015-08-30 19:28:09.628 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=10, edgeSets=14}
+2015-08-30 19:28:09.628 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = CommonInfrequent
+2015-08-30 19:28:09.628 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 0
+2015-08-30 19:28:09.628 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 3.411 ms
+2015-08-30 19:28:09.628 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 64 | executeSimilar time: 18.03 ?s
+2015-08-30 19:28:09.643 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=CommonInfrequent
+2015-08-30 19:28:09.643 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-30 19:28:09.643 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-30 19:28:12.732 [AWT-EventQueue-0] INFO  GBlendAction$NormalRun action 149 | NormalRun!!!!!!
+2015-08-30 19:28:12.732 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 71 | Exact result size: 0
+2015-08-30 19:28:12.732 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 73 | Similar Panel State:true
+2015-08-30 19:28:12.748 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 98 | query sigma: 2
+2015-08-30 19:28:12.779 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 106 | extract sigma 1 time: 24.15 ms, size: 5
+2015-08-30 19:28:12.810 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$7 171 | {2} (need) get new: 1
+2015-08-30 19:28:12.826 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$7 171 | {5} (need) get new: 6
+2015-08-30 19:28:12.826 [AWT-EventQueue-0] INFO  SimpleQueryEngine getSimilarResult 106 | extract sigma 2 time: 1.513 ms, size: 10
+2015-08-30 19:28:12.826 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$7 171 | {1, 2} (need) get new: 45
+2015-08-30 19:28:16.991 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$7 171 | {1, 5} (free) get new: 94734
+2015-08-30 19:28:16.991 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$7 171 | {2, 3} (need) get new: 1
+2015-08-30 19:28:17.240 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$7 171 | {2, 5} (free) get new: 20795
+2015-08-30 19:28:17.365 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$7 171 | {3, 5} (free) get new: 9415
+2015-08-30 19:28:17.365 [AWT-EventQueue-0] INFO  SimpleQueryEngine$UseExactVerify lambda$verify$7 171 | {4, 5} (free) get new: 222
+2015-08-30 19:28:17.381 [AWT-EventQueue-0] INFO  QueryInterfaceImpl run 80 | Similar result size: 125219
+2015-08-30 19:28:17.381 [AWT-EventQueue-0] INFO  GBlendAction$AbstractRun run 137 | System Response time: 4.649 s
+2015-08-30 19:35:57.207 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-30 19:36:04.929 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 16.46 ms
+2015-08-30 19:36:04.960 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-30 19:36:04.960 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\640k\0.1\0.1MD640k
+2015-08-30 19:36:13.914 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1MD640k time: 8.947 s, size: 576
+2015-08-30 19:36:13.914 [pool-1-thread-1] INFO  FrequentFileProcessor processCam 95 | processing freq cam
+2015-08-30 19:36:15.084 [pool-1-thread-1] INFO  FrequentFileProcessor processCam 112 | processing freq cam time: 1.181 s
+2015-08-30 19:36:15.084 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-30 19:36:15.100 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 12
+2015-08-30 19:38:57.127 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\640k\MD640k
+2015-08-30 19:39:27.953 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | MD640k time: 30.83 s, size: 640000
+2015-08-30 19:39:36.954 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 8.995 s
+2015-08-30 19:39:37.968 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 572.3 ms
+2015-08-30 19:39:51.977 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 601.8 ms
+2015-08-30 19:40:40.977 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 515.2 ms
+2015-08-30 19:42:39.553 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 572.4 ms
+2015-08-30 19:45:06.988 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 559.9 ms
+2015-08-30 19:47:15.502 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 698.5 ms
+2015-08-30 19:52:55.816 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 625.5 ms
+2015-08-30 19:59:27.985 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 614.4 ms
+2015-08-30 20:08:02.599 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 737.7 ms
+2015-08-30 20:13:46.049 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 658.9 ms
+2015-08-30 20:17:25.994 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 727.5 ms
+2015-08-30 20:20:24.380 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 610.3 ms
+2015-08-30 20:20:26.580 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 10:50:42.689 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 10:50:45.232 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.507 s
+2015-08-31 10:50:45.279 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 10:51:25.293 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 38.45 s, size: 1132
+2015-08-31 10:52:07.483 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 10:52:07.499 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 10:52:07.499 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 10:52:07.499 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\MD\960k\0.1\0.1MD960k
+2015-08-31 10:52:25.174 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.1MD960k time: 17.67 s, size: 665
+2015-08-31 10:52:25.189 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 13.76 ms
+2015-08-31 10:52:25.221 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 30.22 ms
+2015-08-31 10:52:25.221 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 10:52:25.221 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 12
+2015-08-31 10:52:25.221 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 10:52:25.221 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 10:52:25.236 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 10:52:39.058 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 10:52:39.073 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 12.31 ms, size: 0
+2015-08-31 10:52:39.073 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 10:52:39.073 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 10:52:39.073 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 10:52:39.073 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 10:52:39.073 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 10:52:40.228 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 10:52:43.551 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.759 s
+2015-08-31 10:52:43.566 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 10:52:43.566 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-08-31 10:52:46.422 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1AIDS40k time: 2.850 s, size: 2852
+2015-08-31 10:52:46.469 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 74 | read cam file time: 44.30 ms
+2015-08-31 10:52:46.531 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 59.53 ms
+2015-08-31 10:52:46.531 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 10:52:46.531 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 16
+2015-08-31 10:52:46.968 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-08-31 10:52:48.731 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | AIDS40k time: 1.765 s, size: 40000
+2015-08-31 10:52:49.152 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 426.2 ms
+2015-08-31 10:52:49.402 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 221.3 ms
+2015-08-31 10:52:49.604 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 199.9 ms
+2015-08-31 10:52:49.838 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 215.5 ms
+2015-08-31 10:52:50.026 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 187.4 ms
+2015-08-31 10:52:50.244 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 198.4 ms
+2015-08-31 10:52:50.478 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 218.0 ms
+2015-08-31 10:52:50.696 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 199.6 ms
+2015-08-31 10:55:32.930 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\10k\patterns\patterns
+2015-08-31 10:55:32.993 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 65.83 ms, size: 111
+2015-08-31 10:55:32.993 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 111 patterns loaded
+2015-08-31 10:55:33.008 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\10k\patterns\thumbnails\S5
+2015-08-31 10:55:33.008 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\10k\patterns\thumbnails\S6
+2015-08-31 10:55:33.008 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\10k\patterns\thumbnails\S7
+2015-08-31 10:55:33.008 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 111 pattern images loaded
+2015-08-31 10:55:35.317 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 10:55:36.986 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 429.8 ms
+2015-08-31 10:55:37.017 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 10:55:38.780 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 397.4 ms, size: 1509
+2015-08-31 10:55:44.505 [AWT-EventQueue-0] INFO  BuildQuery recordEdge 88 | Edge: 1
+2015-08-31 10:55:44.521 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 50 | isExact = true
+2015-08-31 10:55:44.537 [AWT-EventQueue-0] INFO  SimpleQueryEngine countCandidates 52 | SimpleSGraph{nodes=1, edgeSets=1}
+2015-08-31 10:55:44.552 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 54 | Query type = Frequent
+2015-08-31 10:55:44.552 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 55 | Candidate Size = 7643
+2015-08-31 10:55:44.552 [AWT-EventQueue-0] INFO  AbstractQueryEngine executeQuery 57 | executeExact time: 36.20 ms
+2015-08-31 10:55:44.646 [AWT-EventQueue-0] INFO  QueryController recordEdge 83 | queryEngine.getQueryType()!!!=Frequent
+2015-08-31 10:55:44.646 [AWT-EventQueue-0] INFO  QueryController recordEdge 85 | queryEngine.getQueryType()!!!=Similarity
+2015-08-31 10:55:44.646 [AWT-EventQueue-0] INFO  QueryGraphScene connectQueryNode 171 | QueryEdge Suggestion==null
+2015-08-31 10:55:46.128 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\10k\AIDS10k
+2015-08-31 10:55:46.565 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | AIDS10k time: 440.7 ms, size: 10000
+2015-08-31 10:55:46.830 [AWT-EventQueue-0] INFO  GBlendAction$SequenceIterateRun action 163 | Exact result size: 7643
+2015-08-31 10:55:46.830 [AWT-EventQueue-0] INFO  GBlendAction$AbstractRun run 137 | System Response time: 704.3 ms
+2015-08-31 10:55:49.061 [AWT-EventQueue-0] INFO  GBlendAction$SequenceIterateRun action 163 | Exact result size: 7643
+2015-08-31 10:55:49.061 [AWT-EventQueue-0] INFO  GBlendAction$AbstractRun run 137 | System Response time: 61.55 ms
+2015-08-31 11:15:45.088 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 11:15:46.289 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 17.56 ms
+2015-08-31 11:15:46.305 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 11:15:46.305 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\20k\0.1\0.1AIDS20k
+2015-08-31 11:16:16.854 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 11:16:16.870 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.59 ms, size: 0
+2015-08-31 11:16:16.870 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 11:16:16.886 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 11:16:16.886 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 11:16:16.886 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 11:16:16.886 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 11:16:18.882 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 11:16:21.098 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 1.105 s
+2015-08-31 11:16:21.144 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 11:16:23.562 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 11:16:23.578 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 11:16:23.578 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 11:16:23.578 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 11:16:24.654 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 1.071 s, size: 561
+2015-08-31 11:16:24.654 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 5.423 ms
+2015-08-31 11:16:24.686 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 28.06 ms
+2015-08-31 11:16:24.686 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 11:16:24.686 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 11:16:24.686 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 11:16:24.686 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 11:16:24.701 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 11:16:24.717 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | end png gengerate
+2015-08-31 11:16:24.732 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 141 | end svg gengerate:
+2015-08-31 12:36:05.994 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 12:36:06.010 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 12:36:06.010 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 12:36:06.010 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 12:36:06.010 [pool-1-thread-3] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 12:36:06.025 [pool-1-thread-3] INFO  PatternGenerator generatePatternImage 138 | end png gengerate
+2015-08-31 12:36:06.041 [pool-1-thread-3] INFO  PatternGenerator generatePatternImage 141 | end svg gengerate:
+2015-08-31 12:36:24.964 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 12:36:24.979 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 12.16 ms, size: 0
+2015-08-31 12:36:24.979 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 12:36:24.995 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 12:36:24.995 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 12:36:24.995 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 12:36:24.995 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 12:36:26.461 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 12:36:28.286 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 416.3 ms
+2015-08-31 12:36:28.318 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 12:36:28.318 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-08-31 12:36:30.548 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1AIDS40k time: 2.233 s, size: 2852
+2015-08-31 12:36:30.548 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 74 | read cam file time: 8.601 ms
+2015-08-31 12:36:30.626 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 74.56 ms
+2015-08-31 12:36:30.626 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 12:36:30.626 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 16
+2015-08-31 12:36:31.048 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-08-31 12:36:33.060 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | AIDS40k time: 2.020 s, size: 40000
+2015-08-31 12:36:33.497 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 430.8 ms
+2015-08-31 12:36:33.715 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 208.6 ms
+2015-08-31 12:36:33.934 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 203.0 ms
+2015-08-31 12:36:34.183 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 240.8 ms
+2015-08-31 12:36:34.386 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 196.2 ms
+2015-08-31 12:36:34.604 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 213.8 ms
+2015-08-31 12:36:34.885 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 259.2 ms
+2015-08-31 12:36:35.104 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 204.5 ms
+2015-08-31 12:39:15.129 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 250.8 ms
+2015-08-31 12:43:36.070 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 286.2 ms
+2015-08-31 12:44:28.299 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 12:44:28.315 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.36 ms, size: 0
+2015-08-31 12:44:28.315 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 12:44:28.315 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 12:44:28.315 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 12:44:28.315 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 12:44:28.315 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 12:44:29.563 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 12:44:31.795 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 451.9 ms
+2015-08-31 12:44:31.826 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 12:44:31.826 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-08-31 12:44:34.104 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | 0.1AIDS40k time: 2.286 s, size: 2852
+2015-08-31 12:44:34.119 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 74 | read cam file time: 5.181 ms
+2015-08-31 12:44:34.182 [pool-1-thread-1] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 58.83 ms
+2015-08-31 12:44:34.182 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 12:44:34.182 [pool-1-thread-1] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 16
+2015-08-31 12:44:34.572 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\AIDS40k
+2015-08-31 12:44:36.132 [pool-1-thread-1] INFO  DataAccessor readDataSet 81 | AIDS40k time: 1.550 s, size: 40000
+2015-08-31 12:44:36.615 [pool-1-thread-1] INFO  PragueIndex getEdges 141 | getEdges time: 482.9 ms
+2015-08-31 12:44:36.865 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 245.7 ms
+2015-08-31 12:44:37.114 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 230.9 ms
+2015-08-31 12:44:37.411 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 295.1 ms
+2015-08-31 12:44:37.676 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 257.8 ms
+2015-08-31 12:44:37.926 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 243.8 ms
+2015-08-31 12:44:38.191 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 248.0 ms
+2015-08-31 12:44:38.472 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 268.9 ms
+2015-08-31 12:44:38.799 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 307.1 ms
+2015-08-31 12:44:39.220 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 391.1 ms
+2015-08-31 12:46:32.720 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 12:46:32.720 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 319.3 ?s, size: 0
+2015-08-31 12:46:32.720 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 12:46:32.720 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 12:46:32.720 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 12:46:32.720 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 12:46:32.720 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 12:46:33.952 [pool-1-thread-2] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 12:46:34.420 [pool-1-thread-2] INFO  PIndexRepository reload 68 | pre load seed time: 114.5 ms
+2015-08-31 12:46:34.420 [pool-1-thread-2] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 12:46:41.440 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 12:46:41.456 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 12:46:41.456 [pool-1-thread-3] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 12:46:41.456 [pool-1-thread-3] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 12:46:42.953 [pool-1-thread-3] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 1.492 s, size: 561
+2015-08-31 12:46:42.953 [pool-1-thread-3] INFO  FrequentFileProcessor readCams 74 | read cam file time: 7.785 ms
+2015-08-31 12:46:42.969 [pool-1-thread-3] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 4.443 ms
+2015-08-31 12:46:42.969 [pool-1-thread-3] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 12:46:42.969 [pool-1-thread-3] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 12:46:42.969 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 12:46:42.969 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 12:46:42.969 [pool-1-thread-3] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 12:46:43.000 [pool-1-thread-3] INFO  PatternGenerator generatePatternImage 138 | end png gengerate
+2015-08-31 12:46:43.016 [pool-1-thread-3] INFO  PatternGenerator generatePatternImage 141 | end svg gengerate:
+2015-08-31 12:48:15.445 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 12:48:15.445 [pool-1-thread-1] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 12:48:15.445 [pool-1-thread-1] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 12:48:15.445 [pool-1-thread-1] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 12:48:15.445 [pool-1-thread-1] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 12:48:15.476 [pool-1-thread-1] INFO  PatternGenerator generatePatternImage 138 | end png gengerate
+2015-08-31 12:48:15.492 [pool-1-thread-1] INFO  PatternGenerator generatePatternImage 141 | end svg gengerate:
+2015-08-31 12:51:20.903 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 12:51:20.919 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.55 ms, size: 0
+2015-08-31 12:51:20.919 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 12:51:20.934 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 12:51:20.934 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 12:51:20.934 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 12:51:20.934 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 12:51:22.978 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 12:51:24.179 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 260.2 ms
+2015-08-31 12:51:24.210 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 12:51:25.521 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 12:51:25.552 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 12:51:25.552 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 12:51:25.552 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 12:51:26.441 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 884.4 ms, size: 561
+2015-08-31 12:51:26.441 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 4.606 ms
+2015-08-31 12:51:26.472 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 30.53 ms
+2015-08-31 12:51:26.472 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 12:51:26.472 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 12:51:26.472 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 12:51:26.472 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 12:51:26.472 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 12:51:26.488 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 136 | cmd /c dot -Tpng temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 12:51:26.504 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 139 | end png gengerate
+2015-08-31 12:51:26.504 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 142 | end svg gengerate:
+2015-08-31 12:56:49.514 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 12:56:49.530 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 12.29 ms, size: 0
+2015-08-31 12:56:49.530 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 12:56:49.530 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 12:56:49.530 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 12:56:49.530 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 12:56:49.530 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 12:56:50.778 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 12:56:52.057 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 264.0 ms
+2015-08-31 12:56:52.088 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 12:56:55.130 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 12:56:55.146 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 12:56:55.146 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 12:56:55.146 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 12:56:56.160 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 1.005 s, size: 561
+2015-08-31 12:56:56.160 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 4.717 ms
+2015-08-31 12:56:56.191 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 36.08 ms
+2015-08-31 12:56:56.207 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 12:56:56.207 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 12:56:56.207 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 12:56:56.207 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 12:56:56.207 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 12:56:56.207 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | cmd /c dot -Tpng temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 12:56:56.222 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 141 | end png gengerate
+2015-08-31 12:56:56.238 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 144 | end svg gengerate:
+2015-08-31 12:58:47.236 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 12:58:47.252 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.16 ms, size: 0
+2015-08-31 12:58:47.252 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 12:58:47.252 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 12:58:47.252 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 12:58:47.252 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 12:58:47.252 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 12:58:48.328 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 12:58:49.467 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 260.1 ms
+2015-08-31 12:58:49.498 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 12:58:52.431 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 1.136 s, size: 870
+2015-08-31 12:58:55.847 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 12:58:55.863 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 12:58:55.863 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 12:58:55.863 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 12:58:56.658 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 786.5 ms, size: 561
+2015-08-31 12:58:56.658 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 4.673 ms
+2015-08-31 12:58:56.690 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 30.07 ms
+2015-08-31 12:58:56.690 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 12:58:56.690 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 12:58:56.690 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 12:58:56.690 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 12:58:56.705 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 12:58:56.705 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | cmd /c dot -Tpng C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI/temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 12:58:56.721 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 141 | end png gengerate
+2015-08-31 12:58:56.736 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 144 | end svg gengerate:
+2015-08-31 12:59:32.694 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 12:59:32.710 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.32 ms, size: 0
+2015-08-31 12:59:32.710 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 12:59:32.726 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 12:59:32.726 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 12:59:32.726 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 12:59:32.726 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 12:59:33.927 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 12:59:35.128 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 262.2 ms
+2015-08-31 12:59:35.159 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 12:59:37.531 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 12:59:37.562 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 12:59:37.562 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 12:59:37.562 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 12:59:38.498 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 929.7 ms, size: 561
+2015-08-31 12:59:38.498 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 4.600 ms
+2015-08-31 12:59:38.529 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 33.44 ms
+2015-08-31 12:59:38.529 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 12:59:38.545 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 12:59:38.545 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 12:59:38.545 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 12:59:38.545 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 12:59:38.545 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | cmd /c dot -Tpng C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI	emp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 12:59:38.560 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 141 | end png gengerate
+2015-08-31 12:59:38.576 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 144 | end svg gengerate:
+2015-08-31 13:00:49.010 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 13:00:49.025 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.32 ms, size: 0
+2015-08-31 13:00:49.025 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 13:00:49.041 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 13:00:49.041 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 13:00:49.041 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 13:00:49.041 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 13:00:50.039 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 13:00:51.631 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 265.5 ms
+2015-08-31 13:00:51.662 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 13:00:52.879 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 13:00:52.894 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:00:52.894 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 13:00:52.894 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 13:00:53.815 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 921.8 ms, size: 561
+2015-08-31 13:00:53.830 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 5.866 ms
+2015-08-31 13:00:53.861 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 35.41 ms
+2015-08-31 13:00:53.861 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 13:00:53.861 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 13:00:53.861 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:00:53.861 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:00:53.861 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 13:00:53.877 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | cmd /c dot -Tpng C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 13:00:53.877 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 141 | end png gengerate
+2015-08-31 13:00:53.893 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 144 | end svg gengerate:
+2015-08-31 13:06:28.479 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 13:06:28.494 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.18 ms, size: 0
+2015-08-31 13:06:28.494 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 13:06:28.510 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 13:06:28.510 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 13:06:28.510 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 13:06:28.510 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 13:06:30.257 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 13:06:31.677 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 267.8 ms
+2015-08-31 13:06:31.708 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 13:06:33.190 [AWT-EventQueue-0] INFO  PatternGenerator <init> 44 | new PatternGenerator
+2015-08-31 13:06:33.221 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:06:33.221 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 13:06:33.221 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 13:06:34.219 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 1.007 s, size: 561
+2015-08-31 13:06:34.235 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 5.775 ms
+2015-08-31 13:06:34.266 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 37.61 ms
+2015-08-31 13:06:34.266 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 13:06:34.266 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 13:06:34.266 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:06:34.266 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:12:30.181 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 13:12:30.212 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.28 ms, size: 0
+2015-08-31 13:12:30.212 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 13:12:30.212 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 13:12:30.212 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 13:12:30.212 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 13:12:30.212 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 13:12:31.538 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 13:12:32.786 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 258.0 ms
+2015-08-31 13:12:32.817 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 13:12:34.845 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 13:12:34.861 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:12:34.861 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 13:12:34.861 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 13:12:35.828 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 960.4 ms, size: 561
+2015-08-31 13:12:35.828 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 5.129 ms
+2015-08-31 13:12:35.859 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 34.40 ms
+2015-08-31 13:12:35.859 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 13:12:35.859 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 13:12:35.875 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:12:35.875 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:12:35.875 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 13:12:35.875 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | cmd /c dot -Tpng C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 13:12:35.890 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 141 | cmd /c dot -Tsvg C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o tmp_pattern.svg
+2015-08-31 13:12:35.890 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 142 | end png gengerate
+2015-08-31 13:12:35.906 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 145 | end svg gengerate:
+2015-08-31 13:13:08.214 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 13:13:08.229 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:13:08.229 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:13:08.229 [pool-1-thread-3] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:13:08.229 [pool-1-thread-3] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 13:13:08.229 [pool-1-thread-3] INFO  PatternGenerator generatePatternImage 138 | cmd /c dot -Tpng C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 13:13:08.245 [pool-1-thread-3] INFO  PatternGenerator generatePatternImage 141 | cmd /c dot -Tsvg C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o tmp_pattern.svg
+2015-08-31 13:13:08.245 [pool-1-thread-3] INFO  PatternGenerator generatePatternImage 142 | end png gengerate
+2015-08-31 13:13:08.261 [pool-1-thread-3] INFO  PatternGenerator generatePatternImage 145 | end svg gengerate:
+2015-08-31 13:22:09.410 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 13:22:09.425 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 13.63 ms, size: 0
+2015-08-31 13:22:09.425 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 13:22:09.441 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 13:22:09.441 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 13:22:09.441 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 13:22:09.441 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 13:22:10.645 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 13:22:12.159 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 266.3 ms
+2015-08-31 13:22:12.190 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 13:22:14.023 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 13:22:14.038 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:22:14.038 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 13:22:14.038 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 13:22:14.991 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 944.8 ms, size: 561
+2015-08-31 13:22:15.006 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 11.60 ms
+2015-08-31 13:22:15.053 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 42.06 ms
+2015-08-31 13:22:15.053 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 13:22:15.053 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 13:22:15.053 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:22:15.053 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:22:15.053 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 13:22:15.053 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | cmd /c dot -Tpng C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 13:22:15.069 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 145 | cmd /c dot -Tsvg C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o tmp_pattern.svg
+2015-08-31 13:22:15.069 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 147 | end png gengerate
+2015-08-31 13:22:15.084 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 150 | end svg gengerate:
+2015-08-31 13:23:35.169 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 13:23:35.185 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.36 ms, size: 0
+2015-08-31 13:23:35.185 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 13:23:35.201 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 13:23:35.201 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 13:23:35.201 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 13:23:35.201 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 13:23:36.373 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 13:23:37.589 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 260.6 ms
+2015-08-31 13:23:37.605 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 13:23:38.947 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 13:23:38.978 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:23:38.978 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 13:23:38.978 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 13:23:39.993 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 1.019 s, size: 561
+2015-08-31 13:23:39.993 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 4.588 ms
+2015-08-31 13:23:40.024 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 31.61 ms
+2015-08-31 13:23:40.024 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 13:23:40.024 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 13:23:40.024 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:23:40.024 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:23:40.040 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 13:23:40.040 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | cmd /c dot -Tpng C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 13:23:40.055 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 145 | cmd /c dot -Tsvg C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o tmp_pattern.svg
+2015-08-31 13:23:40.055 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 147 | end png gengerate
+2015-08-31 13:23:40.071 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 150 | end svg gengerate:
+2015-08-31 13:24:40.596 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 13:24:40.612 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 12.19 ms, size: 0
+2015-08-31 13:24:40.627 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 13:24:40.627 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 13:24:40.627 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 13:24:40.627 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 13:24:40.627 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 13:24:41.641 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 13:24:42.876 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 276.4 ms
+2015-08-31 13:24:42.896 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 13:24:45.017 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 13:24:45.049 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:24:45.049 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 13:24:45.049 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 13:24:46.032 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 990.0 ms, size: 561
+2015-08-31 13:24:46.032 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 4.754 ms
+2015-08-31 13:24:46.079 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 36.08 ms
+2015-08-31 13:24:46.079 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 13:24:46.079 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 13:24:46.079 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:24:46.079 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:24:46.079 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 13:24:46.079 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 138 | cmd /k dot -Tpng C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\temp_pattern.dot -o C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\thumbnails\S5\0.png
+2015-08-31 13:24:46.095 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 143 | dsdada
+2015-08-31 13:27:32.240 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 13:27:32.256 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.31 ms, size: 0
+2015-08-31 13:27:32.256 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 13:27:32.271 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 13:27:32.271 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 13:27:32.271 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 13:27:32.271 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 13:27:33.411 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 13:27:34.642 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 287.3 ms
+2015-08-31 13:27:34.662 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 13:27:35.945 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 13:27:35.960 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:27:35.960 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 13:27:35.960 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 13:27:36.912 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 942.8 ms, size: 561
+2015-08-31 13:27:36.912 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 5.194 ms
+2015-08-31 13:27:36.943 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 30.28 ms
+2015-08-31 13:27:36.943 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 13:27:36.943 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 13:27:36.959 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:27:36.959 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:27:36.959 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 13:27:36.959 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 144 | [Ljava.lang.String;@45a74d6e
+2015-08-31 13:30:31.220 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\patterns\patterns
+2015-08-31 13:30:31.251 [AWT-EventQueue-0] INFO  DataAccessor readDataSet 81 | patterns time: 11.64 ms, size: 0
+2015-08-31 13:30:31.251 [AWT-EventQueue-0] INFO  PatternManager loadPatterns 77 | 0 patterns loaded
+2015-08-31 13:30:31.251 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S5
+2015-08-31 13:30:31.251 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S6
+2015-08-31 13:30:31.251 [AWT-EventQueue-0] INFO  PatternManager loadImagesFromFolder 120 | dirPath:data\AIDS\40k\patterns\thumbnails\S7
+2015-08-31 13:30:31.251 [AWT-EventQueue-0] INFO  PatternManager loadThumbnails 116 | 0 pattern images loaded
+2015-08-31 13:30:32.531 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-08-31 13:30:33.701 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 265.3 ms
+2015-08-31 13:30:33.717 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 44 | end
+2015-08-31 13:30:35.574 [AWT-EventQueue-0] INFO  PatternGenerator <init> 52 | new PatternGenerator
+2015-08-31 13:30:35.605 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 38 | extractPatterns begin
+2015-08-31 13:30:35.605 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-08-31 13:30:35.605 [pool-1-thread-2] INFO  DataAccessor readDataSet 63 | reading C:\Users\xiemiao\Desktop\PRAGUE-release-1.0\EVSS-UI\data\AIDS\40k\0.2\0.2AIDS40k
+2015-08-31 13:30:36.480 [pool-1-thread-2] INFO  DataAccessor readDataSet 81 | 0.2AIDS40k time: 875.0 ms, size: 561
+2015-08-31 13:30:36.480 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 74 | read cam file time: 7.806 ms
+2015-08-31 13:30:36.527 [pool-1-thread-2] INFO  FrequentFileProcessor readCams 86 | make freq graph time: 35.01 ms
+2015-08-31 13:30:36.527 [pool-1-thread-2] INFO  FrequentFileProcessor readFrequents 121 | readFrequents end
+2015-08-31 13:30:36.527 [pool-1-thread-2] INFO  FrequentFileProcessor buildFreqGraphs 133 | max freq fragment size: 13
+2015-08-31 13:30:36.527 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 42 | extractPatterns end
+2015-08-31 13:30:36.527 [pool-1-thread-2] INFO  FreqPatternGenerator extractPatterns 45 | edgeNum:5
+2015-08-31 13:30:36.527 [pool-1-thread-2] INFO  PatternGenerator registerPattern 93 | registerPattern
+2015-08-31 13:30:36.527 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 145 | [Ljava.lang.String;@4e27b344
+2015-08-31 13:30:36.542 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 152 | [Ljava.lang.String;@4985f86f
+2015-08-31 13:30:36.542 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 154 | end png gengerate
+2015-08-31 13:30:36.558 [pool-1-thread-2] INFO  PatternGenerator generatePatternImage 157 | end svg gengerate:
+2015-09-02 14:47:48.102 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-09-02 14:47:49.619 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 15.77 ms
+2015-09-02 14:47:49.635 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-09-02 14:47:49.635 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading D:\Research\SystemDemos\PICASSO\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
+2015-09-02 14:48:06.024 [AWT-EventQueue-0] INFO  PIndexRepository preLoad 135 | pre load 8 time: 1.262 ms, size: 0
+2015-09-03 14:23:42.819 [pool-1-thread-1] INFO  BuildIndexTask doInBackground 38 | begin
+2015-09-03 14:23:43.772 [pool-1-thread-1] INFO  PIndexRepository reload 68 | pre load seed time: 18.51 ms
+2015-09-03 14:23:43.803 [pool-1-thread-1] INFO  FrequentFileProcessor readFrequents 117 | readFrequents begin
+2015-09-03 14:23:43.803 [pool-1-thread-1] INFO  DataAccessor readDataSet 63 | reading D:\Research\PICASSO\EVSS-UI\data\AIDS\40k\0.1\0.1AIDS40k
