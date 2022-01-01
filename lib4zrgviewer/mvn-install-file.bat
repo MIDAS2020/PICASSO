@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=wch -DartifactId=Guava2 -Dversion=1.0-SNAPSHOT -Dfile=Guava2-1.0-SNAPSHOT.jar -Dpackaging=jar
